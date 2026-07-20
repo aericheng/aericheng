@@ -1,4 +1,4 @@
-# Hi, I'm Ming-Hsiang Cheng (鄭名翔) 👋
+# Hi, I'm Ming-Siang Cheng (鄭名翔) 👋
 
 Undergraduate at **National Yang Ming Chiao Tung University**, [Arete Honors Program](https://aretehp.nycu.edu.tw/) (百川學士學位學程), majoring in Computer Science.
 
