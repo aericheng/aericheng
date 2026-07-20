@@ -6,8 +6,9 @@ I'm interested in machine learning, robotics, and computer vision — currently 
 
 ## Projects
 
+- **[voicemotion](https://github.com/aericheng/voicemotion)** — 1st prize, MakeNTU 2026 Panjit corporate award: fully offline voice-controlled dexterous hand — on-MCU keyword spotting (TFLM, int8 quantized) driving a tendon-driven robotic hand
+- **[atcc-sysblade](https://github.com/aericheng/atcc-sysblade)** — National runner-up, ATCC 23rd: Sysblade HyperBuffer — hybrid LFP+LIC BBU with a battery digital twin SaaS ([live demo](https://sysblade-atcc.vercel.app))
 - **[NBA_database](https://github.com/aericheng/NBA_database)** — NBA stats web app built with Python + SQLite
-- **[ClaudeCodeTest](https://github.com/aericheng/ClaudeCodeTest)** — Web mini-apps built with Claude Code
 
 ## Tech
 
