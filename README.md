@@ -10,13 +10,14 @@ I'm interested in machine learning, robotics, and computer vision — currently 
 - **[atcc-sysblade](https://github.com/aericheng/atcc-sysblade)** — National runner-up, ATCC 23rd: Sysblade HyperBuffer — hybrid LFP+LIC BBU with a battery digital twin SaaS ([live demo](https://sysblade-atcc.vercel.app))
 - **[Cmoney-Hackathon](https://github.com/aericheng/Cmoney-Hackathon)** — Portfolio Doctor (口袋寵股): turns a brokerage screenshot into a plain-language portfolio check-up, with a virtual pet that grows with your holdings — AWS Summit Taipei 2026 AI Everywhere Hackathon (Next.js + Amazon Bedrock/Transcribe)
 - **[slack-paper-bot](https://github.com/aericheng/slack-paper-bot)** — Slack bot that turns paper links shared in a channel into weekly Gemini-generated digests — runs entirely on GitHub Actions cron, with dedup and rate-limit backoff
-- **[NBA_database](https://github.com/aericheng/NBA_database)** — NBA stats web app built with Python + SQLite
+- **[youtube-generator](https://github.com/aericheng/youtube-generator)** — fully automated daily YouTube pipeline: research → script → render → scheduled upload, running unattended on Windows Task Scheduler
+- **[NYCU-2025Fall-Database-Systems](https://github.com/aericheng/NYCU-2025Fall-Database-Systems)** — NBA stats web app (course final project, Flask + SQLite)
 
 ## Research & coursework
 
 - Undergraduate research: robot path planning & tracking (A*/RRT*, PID/LQR), UAV visual control (YOLOv7, ArUco pose estimation), and DDPM generation + autoencoder anomaly detection
 - TA, *Robot Navigation and Exploration* (NTHU graduate course, Spring 2026) — ROS2 autonomous-vehicle labs
-- Selected coursework: Machine Learning · Computer Vision · Computer Animation (IK solvers) · Intro to AI · UAV autonomous flight & CV
+- Selected coursework: [Machine Learning](https://github.com/aericheng/NYCU-2026Spring-Machine-Learning) · [Computer Vision](https://github.com/aericheng/NYCU-2026Spring-Computer-Vision) · [Computer Animation](https://github.com/aericheng/NYCU-2026Spring-Computer-Animation) · [Intro to AI](https://github.com/aericheng/NYCU-2026Spring-Intro-to-AI) · [Image Processing](https://github.com/aericheng/NYCU-2026Spring-Image-Processing) · [UAV autonomous flight & CV](https://github.com/aericheng/NYCU-2025Fall-UAV-and-Computer-Vision) · [Robot Navigation & Exploration](https://github.com/aericheng/NYCU-2025Spring-Robot-Navigation-and-Exploration) · [Digital Circuit Design](https://github.com/aericheng/NYCU-2026Spring-Digital-Circuit-Design)
 
 ## Tech
 
